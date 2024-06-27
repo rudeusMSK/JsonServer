@@ -46,6 +46,9 @@ http://localhost:3000/Favourite
 ```
 Then open your browser and go to this address: `http://localhost:3000`
 
+![image](https://github.com/rudeusMSK/JsonServer_FakeAPI/assets/160387470/47c2e540-573c-404b-8526-9cdcaada43e6)
+
+
 ## How to disable:
 
 terminal: `Ctrl` + `C`
