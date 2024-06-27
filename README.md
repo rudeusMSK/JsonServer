@@ -51,5 +51,13 @@ Then open your browser and go to this address: `http://localhost:3000`
 ## How to disable:
 
 terminal: `Ctrl` + `C`
+
+## How to CRUD:
+Demo 1 Only -⁠ ＜(´⌯  ̫⌯`)＞:
+1. Get Product by id: `http://localhost:3000/Product` + `?ProductID=1`
+``` http
+  http://localhost:3000/Product?ProductID=1
+```
+Show more [here ara ara](https://www.npmjs.com/package/json-server?activeTab=readme)
 </details> 
 
