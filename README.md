@@ -7,6 +7,8 @@
   </summary>
   
 Get json: [click here🐸](https://rudeusmsk.github.io/JsonServer_FakeAPI/JsonServer/db.json)
+
+(sài ké của pé thì chỉ Get lấy dữ liệu thôi á, tải local về soài i nhoaa 💕)
 </details> 
 <details lose="" align="left">
   <summary>
