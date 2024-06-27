@@ -1,8 +1,18 @@
 # FAKE JSON DATA
 
-## How to use:
-
-1. download src code [here](https://github.com/rudeusMSK/JsonServer_FakeAPI/) or You can learn more [here](https://www.npmjs.com/package/json-server).
+</details>
+<details lose="" align="left">
+  <summary>  
+  #Use Hosting: ＜(´⌯  ̫⌯`)＞ (bạn sẽ lấy json trực tiếp từ repo của tus á !)
+  </summary>
+       <h2>Get json:</h2> [click here🐸](https://rudeusmsk.github.io/JsonServer_FakeAPI/JsonServer/db.json)
+</details> 
+<details lose="" align="left">
+  <summary>
+  #Use local: -⁠ ฅ^•ﻌ•^ฅ tải về tự chỉnh của bạn moe.
+  </summary>
+    ## How to use:
+    1. download src code [here](https://github.com/rudeusMSK/JsonServer_FakeAPI/) or You can learn more [here](https://www.npmjs.com/package/json-server).
 2. open terminal: pass it to JSON Server CLI :
 
 ``` JavaScript
@@ -37,3 +47,5 @@ Then open your browser and go to this address: `http://localhost:3000`
 ## How to disable:
 
 terminal: `Ctrl` + `C`
+</details> 
+
