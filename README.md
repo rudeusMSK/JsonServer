@@ -12,8 +12,10 @@ Get json: [click here🐸](https://rudeusmsk.github.io/JsonServer_FakeAPI/JsonSe
   <summary>
   #Use local: -⁠ ฅ^•ﻌ•^ฅ tải về tự chỉnh của bạn moe.
   </summary>
-    ## How to use:
-    1. download src code [here](https://github.com/rudeusMSK/JsonServer_FakeAPI/) or You can learn more [here](https://www.npmjs.com/package/json-server).
+    
+  ## How to use:
+    
+1. download src code [here](https://github.com/rudeusMSK/JsonServer_FakeAPI/) or You can learn more [here](https://www.npmjs.com/package/json-server).
 2. open terminal: pass it to JSON Server CLI :
 
 ``` JavaScript
@@ -42,8 +44,6 @@ http://localhost:3000/Product
 http://localhost:3000/Favourite
 ```
 Then open your browser and go to this address: `http://localhost:3000`
-
----
 
 ## How to disable:
 
