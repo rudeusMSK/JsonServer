@@ -1,0 +1,107 @@
+{
+  "Account":
+[
+  {
+    "nameUser": "RudeusMSK",
+    "userId": 1,
+    "love": "kiuu toe",
+    "age": 300,
+    "pass": "123",
+    "phone": 1234567890,
+    "addressUser": "123 Main St"
+  },
+  {
+    "nameUser": "Jane Smith",
+    "userId": 2,
+    "love": "Travel",
+    "age": 25,
+    "pass": "1234",
+    "phone": 9876543210,
+    "addressUser": "456 Elm St"
+  }
+],
+
+"Category":
+[
+  {
+    "categoryId": 1,
+    "nameUser": "Nike"
+  },
+  {
+    "categoryId": 2,
+    "nameUser": "Puma"
+  },
+  {
+    "categoryId": 2,
+    "nameUser": "Pờ Lai"
+  },
+  {
+    "categoryId": 3,
+    "nameUser": "Adidass"
+  }
+],
+
+"SubCategory":
+[
+  {
+    "subcategoryID": 1,
+    "Name": "Quan Thun",
+    "categoryId": 1
+  },
+  {
+    "subcategoryID": 2,
+    "Name": "quần rách",
+    "categoryId": 1
+  },
+  {
+    "subcategoryID": 3,
+    "Name": "Ao Ba Lỗ",
+    "categoryId": 1
+  },
+  {
+    "subcategoryID": 4,
+    "Name": "zài thảo mai",
+    "categoryId": 2
+  },
+  {
+    "subcategoryID": 5,
+    "Name": "zài thoáng khí nikè",
+    "categoryId": 2
+  }
+],
+
+"Product":
+[
+  {
+    "nameUser": "Smartphone",
+    "producrId": 1,
+    "img": "img1.jpg",
+    "unit": "pcs",
+    "price": 599.99,
+    "quantity": 150,
+    "main_Img": "smartphone.jpg",
+    "categoryId": 1
+  },
+  {
+    "nameUser": "Laptop",
+    "producrId": 2,
+    "img": "img2.jpg",
+    "unit": "pcs",
+    "price": 999.99,
+    "quantity": 100,
+    "main_Img": "laptop.jpg",
+    "categoryId": 1
+  }
+],
+"Favourite":
+[
+  {
+    "userId": 1,
+    "producrId": 1
+  },
+  {
+    "userId": 2,
+    "producrId": 2
+  }
+]
+}
