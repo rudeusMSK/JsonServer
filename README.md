@@ -5,7 +5,8 @@
   <summary>  
   #Use Hosting: ＜(´⌯  ̫⌯`)＞ (bạn sẽ lấy json trực tiếp từ repo của tus á !)
   </summary>
-       <h2>Get json:</h2> [click here🐸](https://rudeusmsk.github.io/JsonServer_FakeAPI/JsonServer/db.json)
+  
+Get json: [click here🐸](https://rudeusmsk.github.io/JsonServer_FakeAPI/JsonServer/db.json)
 </details> 
 <details lose="" align="left">
   <summary>
