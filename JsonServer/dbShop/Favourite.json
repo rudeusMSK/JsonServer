@@ -1,0 +1,73 @@
+{
+      "Favourite": [
+    {
+      "userId": 1,
+      "producrId": 1
+    },
+    {
+      "userId": 2,
+      "producrId": 2
+    },
+    {
+      "userId": 8,
+      "producrId": 54
+    },
+    {
+      "userId": 4,
+      "producrId": 12
+    },
+    {
+      "userId": 11,
+      "producrId": 76
+    },
+    {
+      "userId": 6,
+      "producrId": 31
+    },
+    {
+      "userId": 15,
+      "producrId": 42
+    },
+
+     {
+      "userId": 1,
+      "producrId": 1
+    },
+    {
+      "userId": 2,
+      "producrId": 2
+    },
+    {
+      "userId": 8,
+      "producrId": 54
+    },
+    {
+      "userId": 4,
+      "producrId": 12
+    },
+    {
+      "userId": 11,
+      "producrId": 76
+    },
+    {
+      "userId": 6,
+      "producrId": 31
+    },
+    {
+      "userId": 15,
+      "producrId": 75
+    },
+    {
+      "userId": 10,
+      "producrId": 87
+    },
+    {
+      "userId": 7,
+      "producrId": 23
+    },
+    {
+      "userId": 3,
+      "producrId": 65
+    }
+  ]
+}

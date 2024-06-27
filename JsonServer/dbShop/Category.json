@@ -1,0 +1,44 @@
+{
+      "Category": [
+    {
+      "categoryId": 4,
+      "nameUser": "Nike"
+    },
+    {
+      "categoryId": 5,
+      "nameUser": "Adidas"
+    },
+    {
+      "categoryId": 6,
+      "nameUser": "Puma"
+    },
+    {
+      "categoryId": 7,
+      "nameUser": "Reebok"
+    },
+    {
+      "categoryId": 8,
+      "nameUser": "Converse"
+    },
+    {
+      "categoryId": 9,
+      "nameUser": "Asics"
+    },
+    {
+      "categoryId": 10,
+      "nameUser": "New Balance"
+    },
+    {
+      "categoryId": 11,
+      "nameUser": "Under Armour"
+    },
+    {
+      "categoryId": 12,
+      "nameUser": "Skechers"
+    },
+    {
+      "categoryId": 13,
+      "nameUser": "Vans"
+    }
+  ]
+}
