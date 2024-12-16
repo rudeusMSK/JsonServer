@@ -3,12 +3,11 @@
 </details>
 <details lose="" align="left">
   <summary>  
-  #Use Hosting: ＜(´⌯  ̫⌯`)＞ (bạn sẽ lấy json trực tiếp từ repo của tus á !)
+  #Use Hosting: ＜(´⌯  ̫⌯`)＞
   </summary>
   
 Get json: [click here🐸](https://rudeusmsk.github.io/JsonServer_FakeAPI/JsonServer/db.json)
 
-(sài ké của pé thì chỉ Get lấy dữ liệu thôi á, tải local về soài i nhoaa 💕)
 </details> 
 <details lose="" align="left">
   <summary>
