@@ -1,0 +1,394 @@
+{
+    "Genres" :  [
+  {
+    "title": "Action",
+    "amount": 5476,
+    "id": 1
+  },
+  {
+    "title": "Adventure",
+    "amount": 4318,
+    "id": 2
+  },
+  {
+    "title": "Avant_Garde",
+    "amount": 1028,
+    "id": 5
+  },
+  {
+    "title": "Award_Winning",
+    "amount": 256,
+    "id": 46
+  },
+  {
+    "title": "Boys_Love",
+    "amount": 188,
+    "id": 28
+  },
+  {
+    "title": "Comedy",
+    "amount": 7645,
+    "id": 4
+  },
+  {
+    "title": "Drama",
+    "amount": 3046,
+    "id": 8
+  },
+  {
+    "title": "Fantasy",
+    "amount": 5862,
+    "id": 10
+  },
+  {
+    "title": "Girls_Love",
+    "amount": 118,
+    "id": 26
+  },
+  {
+    "title": "Gourmet",
+    "amount": 214,
+    "id": 47
+  },
+  {
+    "title": "Horror",
+    "amount": 575,
+    "id": 14
+  },
+  {
+    "title": "Mystery",
+    "amount": 972,
+    "id": 7
+  },
+  {
+    "title": "Romance",
+    "amount": 2144,
+    "id": 22
+  },
+  {
+    "title": "Sci-Fi",
+    "amount": 3414,
+    "id": 24
+  },
+  {
+    "title": "Slice_of_Life",
+    "amount": 1541,
+    "id": 36
+  },
+  {
+    "title": "Sports",
+    "amount": 798,
+    "id": 30
+  },
+  {
+    "title": "Supernatural",
+    "amount": 1528,
+    "id": 37
+  },
+  {
+    "title": "Suspense",
+    "amount": 446,
+    "id": 41
+  },
+  {
+    "title": "Ecchi",
+    "amount": 818,
+    "id": 9
+  },
+  {
+    "title": "Erotica",
+    "amount": 77,
+    "id": 49
+  },
+  {
+    "title": "Hentai",
+    "amount": 1566,
+    "id": 12
+  },
+  {
+    "title": "Adult_Cast",
+    "amount": 688,
+    "id": 50
+  },
+  {
+    "title": "Anthropomorphic",
+    "amount": 1166,
+    "id": 51
+  },
+  {
+    "title": "CGDCT",
+    "amount": 262,
+    "id": 52
+  },
+  {
+    "title": "Childcare",
+    "amount": 75,
+    "id": 53
+  },
+  {
+    "title": "Combat_Sports",
+    "amount": 93,
+    "id": 54
+  },
+  {
+    "title": "Crossdressing",
+    "amount": 58,
+    "id": 81
+  },
+  {
+    "title": "Delinquents",
+    "amount": 74,
+    "id": 55
+  },
+  {
+    "title": "Detective",
+    "amount": 310,
+    "id": 39
+  },
+  {
+    "title": "Educational",
+    "amount": 316,
+    "id": 56
+  },
+  {
+    "title": "Gag_Humor",
+    "amount": 264,
+    "id": 57
+  },
+  {
+    "title": "Gore",
+    "amount": 272,
+    "id": 58
+  },
+  {
+    "title": "Harem",
+    "amount": 481,
+    "id": 35
+  },
+  {
+    "title": "High_Stakes_Game",
+    "amount": 54,
+    "id": 59
+  },
+  {
+    "title": "Historical",
+    "amount": 1661,
+    "id": 13
+  },
+  {
+    "title": "Idols_Female",
+    "amount": null,
+    "id": 60
+  },
+  {
+    "title": "Idols_Male",
+    "amount": null,
+    "id": 61
+  },
+  {
+    "title": "Isekai",
+    "amount": 421,
+    "id": 62
+  },
+  {
+    "title": "Iyashikei",
+    "amount": 182,
+    "id": 63
+  },
+  {
+    "title": "Love_Polygon",
+    "amount": 107,
+    "id": 64
+  },
+  {
+    "title": "Love_Status_Quo",
+    "amount": 43,
+    "id": 74
+  },
+  {
+    "title": "Magical_Sex_Shift",
+    "amount": 32,
+    "id": 65
+  },
+  {
+    "title": "Mahou_Shoujo",
+    "amount": 346,
+    "id": 66
+  },
+  {
+    "title": "Martial_Arts",
+    "amount": 679,
+    "id": 17
+  },
+  {
+    "title": "Mecha",
+    "amount": 1303,
+    "id": 18
+  },
+  {
+    "title": "Medical",
+    "amount": 54,
+    "id": 67
+  },
+  {
+    "title": "Military",
+    "amount": 731,
+    "id": 38
+  },
+  {
+    "title": "Music",
+    "amount": 4894,
+    "id": 19
+  },
+  {
+    "title": "Mythology",
+    "amount": 643,
+    "id": 6
+  },
+  {
+    "title": "Organized_Crime",
+    "amount": 104,
+    "id": 68
+  },
+  {
+    "title": "Otaku_Culture",
+    "amount": 111,
+    "id": 69
+  },
+  {
+    "title": "Parody",
+    "amount": 797,
+    "id": 20
+  },
+  {
+    "title": "Performing_Arts",
+    "amount": 101,
+    "id": 70
+  },
+  {
+    "title": "Pets",
+    "amount": 131,
+    "id": 71
+  },
+  {
+    "title": "Psychological",
+    "amount": 448,
+    "id": 40
+  },
+  {
+    "title": "Racing",
+    "amount": 265,
+    "id": 3
+  },
+  {
+    "title": "Reincarnation",
+    "amount": 144,
+    "id": 72
+  },
+  {
+    "title": "Reverse_Harem",
+    "amount": 77,
+    "id": 73
+  },
+  {
+    "title": "Samurai",
+    "amount": 245,
+    "id": 21
+  },
+  {
+    "title": "School",
+    "amount": 2188,
+    "id": 23
+  },
+  {
+    "title": "Showbiz",
+    "amount": 50,
+    "id": 75
+  },
+  {
+    "title": "Space",
+    "amount": 660,
+    "id": 29
+  },
+  {
+    "title": "Strategy_Game",
+    "amount": 336,
+    "id": 11
+  },
+  {
+    "title": "Super_Power",
+    "amount": 708,
+    "id": 31
+  },
+  {
+    "title": "Survival",
+    "amount": 75,
+    "id": 76
+  },
+  {
+    "title": "Team_Sports",
+    "amount": 320,
+    "id": 77
+  },
+  {
+    "title": "Time_Travel",
+    "amount": 149,
+    "id": 78
+  },
+  {
+    "title": "Urban_Fantasy",
+    "amount": 206,
+    "id": 82
+  },
+  {
+    "title": "Vampire",
+    "amount": 176,
+    "id": 32
+  },
+  {
+    "title": "Video_Game",
+    "amount": 160,
+    "id": 79
+  },
+  {
+    "title": "Villainess",
+    "amount": 21,
+    "id": 83
+  },
+  {
+    "title": "Visual_Arts",
+    "amount": 91,
+    "id": 80
+  },
+  {
+    "title": "Workplace",
+    "amount": 221,
+    "id": 48
+  },
+  {
+    "title": "Josei",
+    "amount": 157,
+    "id": 43
+  },
+  {
+    "title": "Kids",
+    "amount": 6827,
+    "id": 15
+  },
+  {
+    "title": "Seinen",
+    "amount": 1071,
+    "id": 42
+  },
+  {
+    "title": "Shoujo",
+    "amount": 512,
+    "id": 25
+  },
+  {
+    "title": "Shounen",
+    "amount": 2095,
+    "id": 27
+  }
+]
+}
