@@ -1,0 +1,184 @@
+{
+    "AnimeInfo" : {
+  "title": "Sousou no Frieren",
+  "synopsis": "During their decade-long quest to defeat the Demon King, the members of the hero's party—Himmel himself, the priest Heiter, the dwarf warrior Eisen, and the elven mage Frieren—forge bonds through adventures and battles, creating unforgettable precious memories for most of them.\n\nHowever, the time that Frieren spends with her comrades is equivalent to merely a fraction of her life, which has lasted over a thousand years. When the party disbands after their victory, Frieren casually returns to her \"usual\" routine of collecting spells across the continent. Due to her different sense of time, she seemingly holds no strong feelings toward the experiences she went through.\n\nAs the years pass, Frieren gradually realizes how her days in the hero's party truly impacted her. Witnessing the deaths of two of her former companions, Frieren begins to regret having taken their presence for granted; she vows to better understand humans and create real personal connections. Although the story of that once memorable journey has long ended, a new tale is about to begin.\n\n[Written by MAL Rewrite]",
+  "picture": "https://cdn.myanimelist.net/images/anime/1015/138006.jpg",
+  "characters": [
+    {
+      "link": "https://myanimelist.net/character/184947/Frieren",
+      "picture": "https://cdn.myanimelist.net/images/characters/7/525105.jpg",
+      "name": "Frieren",
+      "role": "Main",
+      "seiyuu": {
+        "link": "https://myanimelist.net/people/17215/Atsumi_Tanezaki",
+        "picture": "https://cdn.myanimelist.net/images/voiceactors/3/77190.jpg",
+        "name": "Tanezaki, Atsumi"
+      }
+    },
+    {
+      "link": "https://myanimelist.net/character/188176/Fern",
+      "picture": "https://cdn.myanimelist.net/images/characters/13/519083.jpg",
+      "name": "Fern",
+      "role": "Main",
+      "seiyuu": {
+        "link": "https://myanimelist.net/people/47097/Kana_Ichinose",
+        "picture": "https://cdn.myanimelist.net/images/voiceactors/1/83362.jpg",
+        "name": "Ichinose, Kana"
+      }
+    },
+    {
+      "link": "https://myanimelist.net/character/188177/Stark",
+      "picture": "https://cdn.myanimelist.net/images/characters/2/523292.jpg",
+      "name": "Stark",
+      "role": "Main",
+      "seiyuu": {
+        "link": "https://myanimelist.net/people/47439/Chiaki_Kobayashi",
+        "picture": "https://cdn.myanimelist.net/images/voiceactors/2/66505.jpg",
+        "name": "Kobayashi, Chiaki"
+      }
+    },
+    {
+      "link": "https://myanimelist.net/character/186854/Himmel",
+      "picture": "https://cdn.myanimelist.net/images/characters/9/523295.jpg",
+      "name": "Himmel",
+      "role": "Supporting",
+      "seiyuu": {
+        "link": "https://myanimelist.net/people/270/Nobuhiko_Okamoto",
+        "picture": "https://cdn.myanimelist.net/images/voiceactors/2/48785.jpg",
+        "name": "Okamoto, Nobuhiko"
+      }
+    },
+    {
+      "link": "https://myanimelist.net/character/206725/Übel",
+      "picture": "https://cdn.myanimelist.net/images/characters/9/543072.jpg",
+      "name": "Übel",
+      "role": "Supporting",
+      "seiyuu": {
+        "link": "https://myanimelist.net/people/48048/Ikumi_Hasegawa",
+        "picture": "https://cdn.myanimelist.net/images/voiceactors/1/81473.jpg",
+        "name": "Hasegawa, Ikumi"
+      }
+    },
+    {
+      "link": "https://myanimelist.net/character/187307/Flamme",
+      "picture": "https://cdn.myanimelist.net/images/characters/10/528177.jpg",
+      "name": "Flamme",
+      "role": "Supporting",
+      "seiyuu": {
+        "link": "https://myanimelist.net/people/100/Atsuko_Tanaka",
+        "picture": "https://cdn.myanimelist.net/images/voiceactors/2/63410.jpg",
+        "name": "Tanaka, Atsuko"
+      }
+    },
+    {
+      "link": "https://myanimelist.net/character/196825/Eisen",
+      "picture": "https://cdn.myanimelist.net/images/characters/13/523293.jpg",
+      "name": "Eisen",
+      "role": "Supporting",
+      "seiyuu": {
+        "link": "https://myanimelist.net/people/926/Youji_Ueda",
+        "picture": "https://cdn.myanimelist.net/images/voiceactors/1/56371.jpg",
+        "name": "Ueda, Youji"
+      }
+    },
+    {
+      "link": "https://myanimelist.net/character/196826/Heiter",
+      "picture": "https://cdn.myanimelist.net/images/characters/16/523294.jpg",
+      "name": "Heiter",
+      "role": "Supporting",
+      "seiyuu": {
+        "link": "https://myanimelist.net/people/236/Hiroki_Touchi",
+        "picture": "https://cdn.myanimelist.net/images/voiceactors/1/71277.jpg",
+        "name": "Touchi, Hiroki"
+      }
+    },
+    {
+      "link": "https://myanimelist.net/character/196912/Sein",
+      "picture": "https://cdn.myanimelist.net/images/characters/12/529669.jpg",
+      "name": "Sein",
+      "role": "Supporting",
+      "seiyuu": {
+        "link": "https://myanimelist.net/people/513/Yuuichi_Nakamura",
+        "picture": "https://cdn.myanimelist.net/images/voiceactors/1/74056.jpg",
+        "name": "Nakamura, Yuuichi"
+      }
+    },
+    {
+      "link": "https://myanimelist.net/character/215250/Denken",
+      "picture": "https://cdn.myanimelist.net/images/characters/6/538686.jpg",
+      "name": "Denken",
+      "role": "Supporting",
+      "seiyuu": {
+        "link": "https://myanimelist.net/people/7914/Jirou_Saitou",
+        "picture": "https://cdn.myanimelist.net/images/voiceactors/3/54843.jpg",
+        "name": "Saitou, Jirou"
+      }
+    }
+  ],
+  "staff": [
+    {
+      "link": "https://myanimelist.net/people/62574/Yuuichirou_Fukushi",
+      "picture": "https://cdn.myanimelist.net/images/voiceactors/3/70310.jpg",
+      "name": "Fukushi, Yuuichirou",
+      "role": "Producer"
+    },
+    {
+      "link": "https://myanimelist.net/people/63615/Shouichirou_Taguchi",
+      "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+      "name": "Taguchi, Shouichirou",
+      "role": "Producer"
+    },
+    {
+      "link": "https://myanimelist.net/people/65387/Yuukou_Itou",
+      "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+      "name": "Itou, Yuukou",
+      "role": "Producer"
+    },
+    {
+      "link": "https://myanimelist.net/people/68439/Haruka_Aoki",
+      "picture": "https://cdn.myanimelist.net/images/questionmark_23.jpg",
+      "name": "Aoki, Haruka",
+      "role": "Producer"
+    }
+  ],
+  "trailer": "https://www.youtube.com/embed/ZEkwCGJ3o7M?enablejsapi=1&wmode=opaque&autoplay=1",
+  "englishTitle": "Frieren: Beyond Journey's End",
+  "japaneseTitle": "葬送のフリーレン",
+  "synonyms": [
+    "Frieren at the Funeral",
+    "Frieren The Slayer"
+  ],
+  "type": "TV",
+  "episodes": "28",
+  "aired": "Sep 29, 2023 to Mar 22, 2024",
+  "premiered": "Fall 2023",
+  "broadcast": "Fridays at 23:00 (JST)",
+  "producers": [
+    "Aniplex",
+    "Dentsu",
+    "Shogakukan-Shueisha Productions",
+    "Nippon Television Network",
+    "TOHO animation",
+    "Shogakukan"
+  ],
+  "studios": [
+    "Madhouse"
+  ],
+  "source": "",
+  "duration": "24 min. per ep.",
+  "rating": "PG-13 - Teens 13 or older",
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Fantasy"
+  ],
+  "status": "Finished Airing",
+  "score": "9.31",
+  "scoreStats": "scored by 632,323 users",
+  "ranked": "#1",
+  "popularity": "#155",
+  "members": "1,079,311",
+  "favorites": "66,191",
+  "id": 52991
+}
+}
